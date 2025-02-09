@@ -4,13 +4,11 @@ import MuiButton from "./components/MuiButton";
 function App() {
   return (
     <div>
-      {/* <div className="demo Typography">
-        <MuiTypography></MuiTypography>
-      </div> */}
+      {/* Demo Typography */}
+      {/* <MuiTypography></MuiTypography> */}
 
-      <div className="demo Button">
-        <MuiButton></MuiButton>
-      </div>
+      {/* Demo Button */}
+      <MuiButton></MuiButton>
     </div>
   );
 }
